@@ -1,7 +1,7 @@
 PonySoundBoard
 ==============
 
-Program binds sound to keys F1 through F2. Fun and amusing for lan parties.
+Program binds sounds to keys F1 through F2. Fun and amusing for lan parties.
 
 Utilizes windows hooks to track the pressing of keys.
 
